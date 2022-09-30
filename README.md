@@ -1,2 +1,3 @@
-# inteligenciaartificial
+# Projeto de Previsão de Preço de um Imóvel. Nosso objetivo aqui é construir um modelo de previsão de preço que permita uma pessoa comum que possui um imóvel possa saber quanto deve cobrar pela diária do seu Imóvel. Ou ainda para um locador comum, dado o imóvel que ele está buscando , ajudar a saber se aquel imóvel está com preço atrativo ( abaixo da média para imóveis com as mesmas características) ou não. Base de Dados foram retiradas do Site do Kaggle.
+# Bibliotecas: pathlib, pandas, numpy, seaborn, matplotlib, plotly, joblib, streamlit e pandas. ( sklearn.linear_model, sklearn.ensemble, sklearm.model_selection
  Projeto Ciencia de Dados
